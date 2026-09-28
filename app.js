@@ -2815,7 +2815,7 @@ function timeCardHTML(){
 /* ══════════════ 学习数据备份与恢复 ══════════════ */
 const LS_ALL = ["kb-progress-v1","kb-check-v2","kb-quiz-v1","kb-fav-v1","kb-note-v1","kb-tpl-v1",
                 "kb-theme-v1","kb-recent-v1","kb-search-v1","kb-streak-v1","kb-daily-v1","kb-daily20-v1","kb-review-v1","kb-time-v1","kb-goal-v1",
-                /* 工作台（kb-workspace.js）：单价库 / 报价方案 / 计算器记忆 / 项目台账 / 首页快捷 */
+                /* 工作台（jy-workspace.js）：单价库 / 报价方案 / 计算器记忆 / 项目台账 / 首页快捷 */
                 "kb-ws-price-v1","kb-ws-plan-v1","kb-ws-calc-v1","kb-ws-proj-v1","kb-ws-short-v1","kb-ws-auto-v1"];
 function exportData(){
   const bag = {};
